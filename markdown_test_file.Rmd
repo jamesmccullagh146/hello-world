@@ -1,0 +1,24 @@
+---
+title: "GitHub testing markdown"
+author: "James McCullagh"
+date: "2024-12-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(usethis)
+library(tidyverse)
+
+x <- mtcars
+
+```
+
+
+
+```{r pressure, echo=FALSE}
+
+
+```
+
